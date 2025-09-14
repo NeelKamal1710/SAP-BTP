@@ -1,4 +1,4 @@
-ID,name,stock,price,Category
-1,BMW,12,3500,Sedan
-2,Audi,10,4500,MINIVAN
-3,Honda,11,2200,XUV
+ID,name,Category,cost_price,cost_stock,emission,rating
+1,BMW,Sedan,12300,120,20000,a
+2,Audi,MINIVAN,76558,46485,30000,b
+3,Honda,XUV,36457,2634,40000,c

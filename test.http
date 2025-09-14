@@ -1,7 +1,7 @@
 //GET http://localhost:4004/odata/v4/product/printhelloworld(input='Hello')
 
 
-//GET http://localhost:4004/odata/v4/productshop/Product
+GET http://localhost:4004/odata/v4/productshop/Product
 
 
-GET http://localhost:4004/odata/v4/productshop/supplier
+//GET http://localhost:4004/odata/v4/productshop/supplier
