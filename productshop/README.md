@@ -1,25 +1,19 @@
 # Getting Started
-
-Welcome to your new project.
-
-It contains these folders and files, following our recommended project layout:
-
-File or Folder | Purpose
----------|----------
-`app/` | content for UI frontends goes here
-`db/` | your domain models and data go here
-`srv/` | your service models and code go here
-`package.json` | project metadata and configuration
-`readme.md` | this getting started guide
+# Step to reproduce
+1. Clone the repo from github inside BAS
+2. Make sure your terminal pointing to your project. If now, go to your project you have created using c <project name>
+3. Run cds watch indise the terminal
+4. run the browser or go to your file in test.http and do the testing.
 
 
-## Next Steps
-
-- Open a new terminal and run `cds watch`
-- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
-- Start adding content, for example, a [db/schema.cds](db/schema.cds).
 
 
-## Learn More
+# Product Shop Application Details.
 
-Learn more at https://cap.cloud.sap/docs/get-started/.
+## cds add data
+
+* It will add the data in the csv file inside data folder of db . db-->data-->csv
+
+## cds watch
+
+* start the server and listen to your file changes.
